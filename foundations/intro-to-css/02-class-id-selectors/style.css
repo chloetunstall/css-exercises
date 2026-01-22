@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #e69aa6;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+#number2 {
+    color: #3d62db;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#number5 {
+    background-color: #b0d6bd;
+    font-size: 24px;
+    font-weight: bold;
+}
